@@ -1,0 +1,8 @@
+C:\Users\mmaar\Documents\VS Projects\Minecraft AFK Tool\Debug\Minecraft AFK Tool.exe
+C:\Users\mmaar\Documents\VS Projects\Minecraft AFK Tool\Debug\Minecraft AFK Tool.pdb
+D:\Minecraft AFK Tool\Debug\Minecraft AFK Tool.exe
+D:\Minecraft AFK Tool\Debug\Minecraft AFK Tool.pdb
+E:\Minecraft AFK Tool\Debug\Minecraft AFK Tool.exe
+E:\Minecraft AFK Tool\Debug\Minecraft AFK Tool.pdb
+F:\Minecraft AFK Tool\Debug\Minecraft AFK Tool.exe
+F:\Minecraft AFK Tool\Debug\Minecraft AFK Tool.pdb

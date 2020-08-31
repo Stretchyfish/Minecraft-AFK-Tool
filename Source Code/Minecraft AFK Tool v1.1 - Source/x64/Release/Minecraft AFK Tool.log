@@ -1,0 +1,6 @@
+﻿  Button.cpp
+F:\Minecraft AFK Tool\Button.h(3,10): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  CustomText.cpp
+F:\Minecraft AFK Tool\CustomText.h(3,10): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+  main.cpp
+F:\Minecraft AFK Tool\main.cpp(1,10): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
